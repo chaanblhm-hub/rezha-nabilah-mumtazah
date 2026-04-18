@@ -1,2 +1,11 @@
 nama : rezha nabilah mumtazah
 nim : 240206501005
+prodi: pendidikan vokasional mekatronika
+jurusan: pendidkan teknik elektronika
+universitas: universitas negeri makassar
+tempat/tanggal lahir: sungguminasa 5 maret 2006
+hobi: 
+-nonton khw nadia omara
+-baca komik
+-memasak
+
